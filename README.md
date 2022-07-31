@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there ??
 
-[![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gajalves&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+                                [![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gajalves&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gajalves&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+                                [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gajalves&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+                                ## Currently Playing ?
+
+                                <p align="center">
+                                    <img width= "150" src="https://i.scdn.co/image/ab67616d0000b273b9d81ca2b0884641e321be4f">
+                                </p>
+                                <p align="center"> Metal Militia - Metallica. </p>
+
+                                ---
