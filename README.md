@@ -1,3 +1,6 @@
-### Hi there :v: <br><br>[![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gajalves&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gajalves&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-## Currently Playing :musical_note: <br><p align="center"><br><br><img width="150" src="https://i.scdn.co/image/ab67616d0000b2737af1759f542693386cf534a6"></p><p align="center"> LAST ONE - Luga. </p><br> 
+## Hi there :v: 
+[![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gajalves&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gajalves&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+## Currently Playing :musical_note: 
+<p align="center"><img width="150" src="https://i.scdn.co/image/ab67616d0000b27333364d6b6fd36894f1a3b506"></p><p align="center"> NEON BLADE - MoonDeity. </p><br> 
 ---
