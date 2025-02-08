@@ -2,6 +2,6 @@
 [![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gajalves&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gajalves&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ## Currently Playing 🎵 
-<p align="center"><img width="200" src="https://i.scdn.co/image/ab67616d0000b27349e234b2a0b7503d2df7ba7f"></p><p align="center"> Full Moon Eyes - Arlo, fkblnde. </p>
+<p align="center"><img width="200" src="https://i.scdn.co/image/ab67616d0000b2731c1bd7b0c83af68733a68286"></p><p align="center"> Rally House - Slowed - prod. DTM. </p>
 
 ---
