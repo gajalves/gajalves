@@ -2,6 +2,6 @@
 [![gajalves's github stats](https://github-readme-stats.vercel.app/api?username=gajalves&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gajalves&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ## Currently Playing 🎵 
-<p align="center"><img width="200" src="https://i.scdn.co/image/ab67616d0000b27358ae8fddecbd2630005409c9"></p><p align="center"> Confident - Justin Bieber, Chance the Rapper. </p>
+<p align="center"><img width="200" src="https://i.scdn.co/image/ab67616d0000b27347e522adf030a78615cdea06"></p><p align="center"> Finesse - Remix; feat. Cardi B - Bruno Mars, Cardi B. </p>
 
 ---
