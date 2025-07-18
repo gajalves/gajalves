@@ -2,6 +2,6 @@
 [![gajalves's github stats](https://github-readme-stats.vercel.app/api?username=gajalves&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gajalves&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 ## Currently Playing 🎵 
-<p align="center"><img width="200" src="https://i.scdn.co/image/ab67616d0000b273b040f965375fa1b42222ce49"></p><p align="center"> WYA - Nemzzz. </p>
+<p align="center"><img width="200" src="https://i.scdn.co/image/ab67616d0000b27328b4eaa6b95cb08edc6a979f"></p><p align="center"> REFLECTION - Nemzzz. </p>
 
 ---
